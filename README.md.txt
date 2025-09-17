@@ -1,3 +1,3 @@
 #Sample  file for example
 
-Sample file to experiment GitHub commands
+Sample file to experiment GitHub commands, hello world!
